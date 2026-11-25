@@ -1,0 +1,1 @@
+Build a program that writes one charming one-line weather forecast for an imaginary city to /output/entry.txt for the make.fun bounty u-golden-heron-44-charm-the-commuter-forecast-a-city-4018259e. One line only.
